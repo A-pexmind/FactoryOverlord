@@ -1,0 +1,9 @@
+{
+  "name": "Factory Overlord",
+  "short_name": "Factory Overlord",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#041025",
+  "theme_color": "#071a35",
+  "description": "A colorful idle factory empire game powered by optional rewarded ads."
+}
